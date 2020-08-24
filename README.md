@@ -1,4 +1,4 @@
-### Olá. Meu nome é Marco Polo e estou iniciando essa perfil no Guthub como atividade para o curso de Web Programmer do IFTO Araguaína. Até mais.
+### Olá. Meu nome é Marco Polo e estou iniciando essa perfil no Github como atividade para o curso de Web Programmer do IFTO Araguaína. Até mais.
 
 <!--
 **EKZO729/ekzo729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
